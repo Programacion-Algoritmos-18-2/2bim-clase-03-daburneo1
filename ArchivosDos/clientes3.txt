@@ -1,0 +1,3 @@
+1 Rene Elizalde 200,00
+
+2 Juan Lasso 1000,01
